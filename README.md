@@ -1,2 +1,3 @@
 # DVB-S2-Modulator
 This project was initiated as study project with the aim of the implementation of a DVB-S2 modulater on a FPGA fabric. The modulator shall be developed for the utilization in the communication system of a CubSat. Due to a higher flexability, the communication system of the CubSat includes a Zynq 7000 from Xilinx, which contains beside a FPGAs fabric also an Dual-Core ARM CPU for the execution of software. However, the DVB-S2 modulator will be implemented in the FPGA section of the SoC. This repository describes the implementation of a limited version of a DVB-S2 modulator, that contains the source files and testbench files for the simulation of the digital circuit. 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
